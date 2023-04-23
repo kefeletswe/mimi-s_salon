@@ -2,6 +2,8 @@ core.Microsoft*
 core.mongo*
 core.python*
 env.py 
+
+os.environ["DATABASE_URL"]="postgres://ozffpyvd:oBLnmmaI1_5_jSOA8HtQQWXn8Lf7NtVV@horton.db.elephantsql.com/ozffpyvd"
 __pycache__/
 *.py[cod]
 node_modules/
